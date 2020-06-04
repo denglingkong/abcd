@@ -3,6 +3,7 @@
     <div class="mains">
       <router-view></router-view>
     </div>
+    <div> HHHHHH </div>
 
     <div class="rou">
       
